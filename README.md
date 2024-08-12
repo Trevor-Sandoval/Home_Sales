@@ -30,11 +30,15 @@ Objectives:
 -
 The instructions for this Challenge are divided into the following subsections:
 
--- Split the Data into Training and Testing Sets
+-- Step 1: Preprocess the Data
 
--- Create a Logistic Regression Model with the Original Data
+-- Step 2: Compile, Train, and Evaluate the Model
 
--- Write a Credit Risk Analysis Report
+-- Step 3: Optimize the Model
+
+-- Step 4: Write a Report on the Neural Network Model
+
+-- Step 5: Copy Files Into Your Repository
 
 
 References: 
